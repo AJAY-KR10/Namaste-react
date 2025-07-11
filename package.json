@@ -1,0 +1,23 @@
+{
+  "name": "namasthe",
+  "version": "1.0.0",
+  "description": "my react namaste",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJAY-KR10/Namaste-react.git"
+  },
+  "keywords": [
+    "namaste",
+    "react"
+  ],
+  "author": "ajay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AJAY-KR10/Namaste-react/issues"
+  },
+  "homepage": "https://github.com/AJAY-KR10/Namaste-react#readme"
+}
