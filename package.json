@@ -2,8 +2,9 @@
   "name": "namasthe",
   "version": "1.0.0",
   "description": "my react namaste",
-  "main": "app.js",
   "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
     "test": "jest"
   },
   "repository": {
@@ -19,5 +20,15 @@
   "bugs": {
     "url": "https://github.com/AJAY-KR10/Namaste-react/issues"
   },
-  "homepage": "https://github.com/AJAY-KR10/Namaste-react#readme"
+  "homepage": "https://github.com/AJAY-KR10/Namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
 }
